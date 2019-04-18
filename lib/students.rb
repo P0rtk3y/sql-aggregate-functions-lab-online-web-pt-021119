@@ -1,5 +1,5 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks.
-
+binding.pry
 def highest_student_gpa
   "SELECT MAX(highest_gpa) FROM students.rb;"
 end
